@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa78f044dc765a244ab9d313a7791b95, type: 3}
   m_Name: Tut Hip Hop
   m_EditorClassIdentifier: 
-  MusicName: Persona 4 - Specialist
-  danceName: Tut Hip Hop
+  musicName: Persona 4 - Specialist
+  animationName: Tut Hip Hop
   notesConfig: {fileID: 4900000, guid: 3daea89a2f818494c939d2d1f3fd9074, type: 3}
-  speed: 100
+  speed: 200

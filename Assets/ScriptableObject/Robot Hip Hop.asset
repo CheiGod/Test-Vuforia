@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa78f044dc765a244ab9d313a7791b95, type: 3}
   m_Name: Robot Hip Hop
   m_EditorClassIdentifier: 
-  MusicName: Drowned Sorrows - (Downpour  Layer)
-  danceName: Robot Hip Hop
+  musicName: Dialga
+  animationName: Robot Hip Hop
   notesConfig: {fileID: 4900000, guid: 9a091bfc86fb7dc489f408e260020acb, type: 3}
-  speed: 100
+  speed: 200
